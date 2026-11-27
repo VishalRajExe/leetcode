@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/VishalRajExe/leetcode/tree/master/1345-jump-game-iv) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VishalRajExe/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VishalRajExe/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/VishalRajExe/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/VishalRajExe/leetcode/tree/master/3360-stone-removal-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/VishalRajExe/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+## Greedy
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/VishalRajExe/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
